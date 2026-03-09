@@ -31,7 +31,7 @@ This plugin requires the **Clans plugin** by **k1lly0u**.
 
 Supported versions:
 - Free Clans plugin (uMod)
-- Premium Clans REBORN plugin
+- Premium Clans REBORN plugin (chaoscode)
 
 If the Clans plugin is not installed, clan lookup commands will return an error.
 
